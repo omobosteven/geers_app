@@ -19,11 +19,11 @@ const Rating = ({ rate, className }) => {
 
 Rating.propTypes = {
   rate: PropTypes.string.isRequired,
-  className: PropTypes.objectOf(PropTypes.any)
+  className: PropTypes.oneOfType([PropTypes.object, PropTypes.string])
 };
 
 Rating.defaultProps = {
-  className: {}
+  className: ''
 };
 
 export default Rating;

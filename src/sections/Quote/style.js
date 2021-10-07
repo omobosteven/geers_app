@@ -52,7 +52,6 @@ const useStyles = makeStyles({
     quote: {
       background: `url(${quoteBk})`,
       backgroundSize: 'cover',
-
       backgroundPositionY: '70%'
     },
 
@@ -61,6 +60,12 @@ const useStyles = makeStyles({
       '& .text': {
         maxWidth: 347
       }
+    }
+  },
+
+  '@media screen and (min-width: 1600px)': {
+    quote: {
+      backgroundPositionY: '40%'
     }
   }
 });

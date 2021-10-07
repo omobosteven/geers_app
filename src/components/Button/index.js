@@ -15,11 +15,11 @@ const Button = ({ text, className }) => {
 
 Button.propTypes = {
   text: PropTypes.string.isRequired,
-  className: PropTypes.objectOf(PropTypes.any)
+  className: PropTypes.oneOfType([PropTypes.object, PropTypes.string])
 };
 
 Button.defaultProps = {
-  className: {}
+  className: ''
 };
 
 export default Button;

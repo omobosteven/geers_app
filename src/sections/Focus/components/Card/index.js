@@ -2,6 +2,9 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import useStyles from './style';
 
+/* The Card component will overflow when given a long text,
+I'm working on it.
+  */
 const Card = ({ image, htmlText, reverse }) => {
   const classes = useStyles({ image, reverse });
 
@@ -15,7 +18,7 @@ const Card = ({ image, htmlText, reverse }) => {
 
 Card.propTypes = {
   image: PropTypes.number.isRequired,
-  htmlText: PropTypes.string.isRequired,
+  htmlText: PropTypes.node.isRequired,
   reverse: PropTypes.bool
 };
 

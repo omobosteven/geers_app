@@ -1,6 +1,7 @@
 import React from 'react';
 import useStyles from './style';
 
+// Dummy data simualting a database response
 const analytics = [
   {
     rate: '97%',
