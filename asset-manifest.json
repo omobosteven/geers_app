@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/geers_app/static/css/main.bfd61192.chunk.css",
+    "main.js": "/geers_app/static/js/main.35a0af4d.chunk.js",
+    "main.js.map": "/geers_app/static/js/main.35a0af4d.chunk.js.map",
+    "runtime-main.js": "/geers_app/static/js/runtime-main.1bc31f81.js",
+    "runtime-main.js.map": "/geers_app/static/js/runtime-main.1bc31f81.js.map",
+    "static/css/2.679831fc.chunk.css": "/geers_app/static/css/2.679831fc.chunk.css",
+    "static/js/2.0126f3b5.chunk.js": "/geers_app/static/js/2.0126f3b5.chunk.js",
+    "static/js/2.0126f3b5.chunk.js.map": "/geers_app/static/js/2.0126f3b5.chunk.js.map",
+    "static/js/3.f528063c.chunk.js": "/geers_app/static/js/3.f528063c.chunk.js",
+    "static/js/3.f528063c.chunk.js.map": "/geers_app/static/js/3.f528063c.chunk.js.map",
+    "index.html": "/geers_app/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/geers_app/static/css/2.679831fc.chunk.css.map",
+    "static/css/main.bfd61192.chunk.css.map": "/geers_app/static/css/main.bfd61192.chunk.css.map",
+    "static/js/2.0126f3b5.chunk.js.LICENSE.txt": "/geers_app/static/js/2.0126f3b5.chunk.js.LICENSE.txt",
+    "static/media/Platz.8eaf40f7.svg": "/geers_app/static/media/Platz.8eaf40f7.svg",
+    "static/media/ekomi.601ba92f.svg": "/geers_app/static/media/ekomi.601ba92f.svg",
+    "static/media/focus1.2e2908d8.png": "/geers_app/static/media/focus1.2e2908d8.png",
+    "static/media/focus2.4e59a0f1.png": "/geers_app/static/media/focus2.4e59a0f1.png",
+    "static/media/hero_image.32d735db.png": "/geers_app/static/media/hero_image.32d735db.png",
+    "static/media/hero_mobile.a5f77f40.png": "/geers_app/static/media/hero_mobile.a5f77f40.png",
+    "static/media/logo.7d843cc1.svg": "/geers_app/static/media/logo.7d843cc1.svg",
+    "static/media/price_symbol.88d981ec.svg": "/geers_app/static/media/price_symbol.88d981ec.svg",
+    "static/media/quotation_marks.e4bcf0f0.svg": "/geers_app/static/media/quotation_marks.e4bcf0f0.svg",
+    "static/media/quote.18305612.png": "/geers_app/static/media/quote.18305612.png",
+    "static/media/quote_mobile.33e6f492.png": "/geers_app/static/media/quote_mobile.33e6f492.png",
+    "static/media/satisfaction_symbol.eee6b798.svg": "/geers_app/static/media/satisfaction_symbol.eee6b798.svg",
+    "static/media/service_symbol.ca915038.svg": "/geers_app/static/media/service_symbol.ca915038.svg",
+    "static/media/shops.d429839b.svg": "/geers_app/static/media/shops.d429839b.svg",
+    "static/media/stars.331df81a.svg": "/geers_app/static/media/stars.331df81a.svg",
+    "static/media/tick.2bc78b0d.svg": "/geers_app/static/media/tick.2bc78b0d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1bc31f81.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.0126f3b5.chunk.js",
+    "static/css/main.bfd61192.chunk.css",
+    "static/js/main.35a0af4d.chunk.js"
+  ]
+}
