@@ -60,7 +60,7 @@ const useStyles = makeStyles({
     }
   },
 
-  '@media screen and (min-width: 1280px)': {
+  '@media screen and (min-width: 1024px)': {
     bannerImage_mobile: {
       display: 'none'
     },
@@ -70,13 +70,14 @@ const useStyles = makeStyles({
       background: `url(${hero})`,
       backgroundRepeat: 'no-repeat',
       backgroundSize: 'cover',
-      backgroundPositionX: '20%',
       display: 'flex',
       alignItems: 'center',
 
       '& .container': {
         display: 'flex',
-        justifyContent: 'flex-end'
+        justifyContent: 'flex-end',
+        paddingLeft: '4%',
+        paddingRight: '4%'
       }
     },
 
@@ -87,6 +88,13 @@ const useStyles = makeStyles({
 
     logoWrapper: {
       marginTop: 47
+    }
+  },
+
+
+  '@media screen and (min-width: 1280px)': {
+    banner: {
+      backgroundPositionX: '20%',
     }
   },
 

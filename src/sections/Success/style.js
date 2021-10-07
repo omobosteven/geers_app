@@ -53,6 +53,20 @@ const useStyles = makeStyles({
     }
   },
 
+  '@media screen and (min-width: 500px)': {
+    ribbons: {
+      alignSelf: 'center'
+    }
+  },
+
+  '@media screen and (min-width: 600px)': {
+    content: {
+      '& .check p': {
+        fontSize: fontSizes.xLarge
+      }
+    },
+  },
+
   '@media screen and (min-width: 768px)': {
     ribbons: {
       '& .imageGroup': {
@@ -78,7 +92,12 @@ const useStyles = makeStyles({
       },
 
       '& .check': {
-        width: '80%'
+        width: '85%',
+        fontWeight: 'bold'
+      },
+
+      '& .check p': {
+        fontSize: fontSizes.large,
       }
     },
 
